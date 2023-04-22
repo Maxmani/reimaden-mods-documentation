@@ -1,0 +1,4 @@
+site_name: Arcadian Dream Documentation
+site_url: https://arcadian-dream.readthedocs.io
+theme:
+  name: material
