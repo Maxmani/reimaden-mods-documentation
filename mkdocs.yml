@@ -38,6 +38,7 @@ markdown_extensions:
   - pymdownx.mark
   - pymdownx.tilde
   - attr_list
+  - abbr
   - md_in_html
   - footnotes
   - pymdownx.snippets:
