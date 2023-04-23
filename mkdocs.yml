@@ -2,6 +2,8 @@ site_name: Arcadian Dream Documentation
 site_url: https://arcadian-dream.readthedocs.io
 nav:
   - Home: index.md
+  - Features:
+    - Ritual Crafting: features/ritual_crafting.md
 theme:
   name: material
   favicon: images/icon.png
@@ -35,4 +37,10 @@ markdown_extensions:
   - pymdownx.caret
   - pymdownx.mark
   - pymdownx.tilde
+  - attr_list
+  - md_in_html
+  - footnotes
+  - pymdownx.snippets:
+      auto_append:
+        - includes/abbreviations.md
 repo_url: https://github.com/Maxmani/arcadian-dream
