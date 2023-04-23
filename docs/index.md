@@ -12,3 +12,4 @@ Visit [Modrinth](https://modrinth.com/mod/arcadian-dream) ~~or CurseForge~~ to d
 - You might run into some... interesting design choices. This is my first big actual mod, so I'm still learning.
 - The mod is still in early development. Expect bugs and incomplete features.
 - I have taken inspiration from other Touhou mods, while trying to put my own spin on things.
+- It's highly recommended to use JEI or similar mods to view recipes.

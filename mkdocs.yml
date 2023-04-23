@@ -4,6 +4,8 @@ nav:
   - Home: index.md
   - Features:
     - Ritual Crafting: features/ritual_crafting.md
+  - Miscellaneous:
+    - Advancement Triggers: misc/advancement_triggers.md
 theme:
   name: material
   favicon: images/icon.png
