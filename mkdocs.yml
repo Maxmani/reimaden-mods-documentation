@@ -1,9 +1,13 @@
 site_name: Arcadian Dream Documentation
 site_url: https://arcadian-dream.readthedocs.io
+nav:
+  - Home: index.md
 theme:
   name: material
   favicon: images/icon.png
   logo: images/icon.png
+  icon:
+    repo: fontawesome/brands/github
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -25,5 +29,10 @@ theme:
 extra: 
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/Maxmani/arcadian-dream
-      name: Arcadian Dream GitHub
+      link: https://github.com/Maxmani
+      name: GitHub
+markdown_extensions:
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+repo_url: https://github.com/Maxmani/arcadian-dream
