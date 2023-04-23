@@ -2,3 +2,28 @@ site_name: Arcadian Dream Documentation
 site_url: https://arcadian-dream.readthedocs.io
 theme:
   name: material
+  favicon: images/icon.png
+  logo: images/icon.png
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: grey
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: grey
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.expand
+extra: 
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Maxmani/arcadian-dream
+      name: Arcadian Dream GitHub
