@@ -43,14 +43,14 @@ To turn a core into a usable Shot, you will need a Danmaku Crafting Table.
 
 The Danmaku Crafting Table is a block that allows you to create, repair and modify Shot items.
 
-![Danmaku Crafting Table](../images/danmaku_crafting_table.png){align=left}
-1. Core
-2. Shot
-3. Modifier
-4. Repair
-5. Pattern
-6. Color
-7. Result
+![Danmaku Crafting Table](../images/danmaku_crafting_table.png){width="326"}{align=left}
+1. Core  
+2. Shot  
+3. Modifier  
+4. Repair  
+5. Pattern  
+6. Color  
+7. Result  
 
 Placing a core in the core slot and a Big Power Item in the modifier slot will result in a Shot item. From there you can place it in the shot slot to repair it using Faith Items in a repair slot or modifying it using other materials and slots.
 
