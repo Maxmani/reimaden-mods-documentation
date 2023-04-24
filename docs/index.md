@@ -4,7 +4,7 @@ This is the documentation for the Arcadian Dream mod for Minecraft. It is a work
 
 Arcadian Dream is a mod based on the popular [Touhou Project](https://en.touhouwiki.net/wiki/Touhou_Wiki) series. It adds a variety of new items, blocks, mobs, and other content to the game.
 
-Visit [Modrinth](https://modrinth.com/mod/arcadian-dream) ~~or CurseForge~~ to download the mod.
+Visit [Modrinth](https://modrinth.com/mod/arcadian-dream) or [CurseForge](https://curseforge.com/minecraft/mc-mods/arcadian-dream) to download the mod.
 
 ## General Information
 
