@@ -3,6 +3,7 @@ site_url: https://arcadian-dream.readthedocs.io
 nav:
   - Home: index.md
   - Features:
+    - Danmaku: features/danmaku.md
     - Ritual Crafting: features/ritual_crafting.md
   - Miscellaneous:
     - Advancement Triggers: misc/advancement_triggers.md
@@ -43,6 +44,9 @@ markdown_extensions:
   - abbr
   - md_in_html
   - footnotes
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
   - pymdownx.snippets:
       auto_append:
         - includes/abbreviations.md
