@@ -6,9 +6,15 @@ Ritual crafting is done by placing down a **Ritual Shrine** surrounded by as man
 
 <figure markdown>
   ![Ritual Shrine Setup](../images/ritual_shrine_setup.png){width="600"}
-  <figcaption>Distances of Onbashiras in relation to each other and the shrine.</figcaption>
+  <figcaption>Distances of Onbashira in relation to each other and the shrine.</figcaption>
 </figure>
 
 The outer circle must be placed one block higher than the inner circle. The bottom blocks of the outer circle don't matter.
 
-Ingredients are placed on the Onbashiras, and the recipe is activated by pressing USE on the Ritual Shrine.
+Ingredients are placed on the Onbashira, and the recipe is activated by pressing USE on the Ritual Shrine.
+
+## Onbashira
+
+Each onbashira can hold one item. Items cannot be placed on an onbashira if the block above it is occupied.
+
+Onbashira can be created by placing an **Onbashira Pillar** and pressing USE on it with a [lead](https://minecraft.fandom.com/wiki/Lead) and a piece of [paper](https://minecraft.fandom.com/wiki/Paper) in your hands.
