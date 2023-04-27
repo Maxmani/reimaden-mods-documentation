@@ -1,5 +1,7 @@
 # Ritual Crafting
 
+## How it works
+
 Ritual crafting is a way to craft items in-world. It is a bit more complicated than normal crafting, but it allows for more complex recipes.
 
 Ritual crafting is done by placing down a **Ritual Shrine** surrounded by as many **Onbashira** blocks as needed. The Onbashira blocks must be placed in a specific pattern, and the Ritual Shrine must be placed in the center of the pattern.

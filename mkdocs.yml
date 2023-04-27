@@ -4,6 +4,7 @@ nav:
   - Home: index.md
   - Features:
     - Danmaku: features/danmaku.md
+    - Mobs: features/mobs.md
     - Ritual Crafting: features/ritual_crafting.md
   - Miscellaneous:
     - Advancement Triggers: misc/advancement_triggers.md
