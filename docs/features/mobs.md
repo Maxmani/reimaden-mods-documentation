@@ -8,13 +8,14 @@ Arcadian Dream is going to feature many familiar mobs from the Touhou universe. 
 
 ### Fairies
 
-Fairies are the most common mob in Arcadian Dream. They come in many[^1] different types, and spawn in many different biomes. They are also generally the weakest mobs in the mod, and are easy to kill.
+Fairies are the most common mob in Arcadian Dream. They come in many[^1] different types, and spawn in many different biomes. They are also generally the weakest mobs in the mod, and are easy to defeat.
 
 [^1]: soon™
 
 !!! note "Needs more work"
 
     The formatting could be better. Especially the drops.
+    It will do for now.
 
 Image | Name | Spawn Conditions | Nature | Drops
 ------|------|------------------|--------|------
