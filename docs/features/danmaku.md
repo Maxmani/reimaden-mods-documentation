@@ -23,6 +23,7 @@ Icon | Material | Description
 <img alt="Max Point Item" width="16" src="https://raw.githubusercontent.com/Maxmani/arcadian-dream/HEAD/src/main/resources/assets/arcadiandream/textures/item/max_point_item.png"/> | Max Point Item | Has no use currently.
 <img alt="Star Item" width="16" src="https://raw.githubusercontent.com/Maxmani/arcadian-dream/HEAD/src/main/resources/assets/arcadiandream/textures/item/star_item.png"/> | Star Item | Used to increase the duration of bullets. Also used to create Bullet Cores.
 <img alt="Faith Item" width="16" src="https://raw.githubusercontent.com/Maxmani/arcadian-dream/HEAD/src/main/resources/assets/arcadiandream/textures/item/faith_item.png"/> | Faith Item | Used to repair Shot items.
+<img alt="Time Orb" width="16" src="https://raw.githubusercontent.com/Maxmani/arcadian-dream/HEAD/src/main/resources/assets/arcadiandream/textures/item/time_orb.png"/> | Time Orb | Permanently halves the cooldown of a shot.
 
 The first step is to create a Bullet Core. Each bullet type has an equivalent Bullet Core. These can be crafted using Star Items in a regular crafting table.
 
@@ -36,6 +37,8 @@ Icon | Bullet Type | Notes
 ![Bubble](../images/bubble_shot.png) | Bubble | Has a quite large hitbox.
 ![Amulet](../images/amulet_shot.png) | Amulet | Deals more damage to undead mobs.
 ![Star](../images/star_shot.png) | Star | Ignores armor.
+![Kunai](../images/kunai_shot.png) | Kunai | Pierces through enemies.
+![Pellet](../images/pellet_shot.png) | Pellet | Has high max density.
 
 To turn a core into a usable Shot, you will need a Danmaku Crafting Table.
 
@@ -77,7 +80,7 @@ Bullets deal their own type of damage, so they are not affected by things like P
 
 By default, shots come with the "spread" pattern. This pattern will fire a single bullet in the direction you are looking. If there are multiple bullets in a single shot, they will have divergence applied to them based on the density.
 
-More patterns can be found around the Minecraft world in the form of templates. Once found, a Pattern Template can be crafted into a Pattern item, which can then be placed in the pattern slot of a Danmaku Crafting Table.
+More patterns can be found around the Minecraft world in the form of templates. Once found, a Pattern Template can be crafted into a Bullet Pattern item, which can then be placed in the pattern slot of a Danmaku Crafting Table.
 
 Pattern items can be duplicated using an existing pattern, some materials and a shot.
 
@@ -96,7 +99,10 @@ Icon | Item
 -----|-----
 <img alt="Bomb Item" width="16" src="https://raw.githubusercontent.com/Maxmani/arcadian-dream/HEAD/src/main/resources/assets/arcadiandream/textures/item/bomb_item.png"/> | Bomb Item
 <img alt="Extend Item" width="16" src="https://raw.githubusercontent.com/Maxmani/arcadian-dream/HEAD/src/main/resources/assets/arcadiandream/textures/item/extend_item.png"/> | Extend Item
+<img alt="Life Fragment" width="16" src="https://raw.githubusercontent.com/Maxmani/arcadian-dream/HEAD/src/main/resources/assets/arcadiandream/textures/item/life_fragment.png"/> | Life Fragment
 
 Bullets that are not your own can be cancelled using a Bomb Item. This removes all nearby bullets and gives you some Star Items in return. Bombs are quite uncommon, so use them wisely.
 
 There is also the Extend Item, which acts as an equipable Totem of Undying. It will cancel bullets similar to a Bomb, but won't give you any Star Items. It also grants temporary invulnerability. It is a rare drop from certain mobs.
+
+Extends can be turned into Life Fragments and vice versa.
