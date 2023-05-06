@@ -89,7 +89,7 @@ Icon | Pattern | Location
 <img alt="Spread Pattern" width="16" src="https://raw.githubusercontent.com/Maxmani/arcadian-dream/HEAD/src/main/resources/assets/arcadiandream/textures/item/spread_pattern.png"/> | Spread | Shipwreck
 <img alt="Ray Pattern" width="16" src="https://raw.githubusercontent.com/Maxmani/arcadian-dream/HEAD/src/main/resources/assets/arcadiandream/textures/item/ray_pattern.png"/> | Ray | Pillager Outpost
 <img alt="Ring Pattern" width="16" src="https://raw.githubusercontent.com/Maxmani/arcadian-dream/HEAD/src/main/resources/assets/arcadiandream/textures/item/ring_pattern.png"/> | Ring | Nether Fortress & Abandoned Shrine
-<img alt="Cone Pattern" width="16" src="https://raw.githubusercontent.com/Maxmani/arcadian-dream/HEAD/src/main/resources/assets/arcadiandream/textures/item/cone_pattern.png"/> | Cone | Ancient City
+<img alt="Arc Pattern" width="16" src="https://raw.githubusercontent.com/Maxmani/arcadian-dream/HEAD/src/main/resources/assets/arcadiandream/textures/item/arc_pattern.png"/> | Arc | Ancient City
 <img alt="Double Pattern" width="16" src="https://raw.githubusercontent.com/Maxmani/arcadian-dream/HEAD/src/main/resources/assets/arcadiandream/textures/item/double_pattern.png"/> | Double | Mineshaft
 <img alt="Triple Pattern" width="16" src="https://raw.githubusercontent.com/Maxmani/arcadian-dream/HEAD/src/main/resources/assets/arcadiandream/textures/item/triple_pattern.png"/> | Triple | Stronghold
 
