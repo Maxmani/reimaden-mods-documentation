@@ -63,6 +63,5 @@ extra:
       name: GitHub
   alternate:
     - name: English
-      link: /en/
       lang: en
 repo_url: https://github.com/Maxmani/arcadian-dream
