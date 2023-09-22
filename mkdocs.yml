@@ -3,11 +3,11 @@ site_url: https://arcadiandream.reimaden.net
 nav:
   - Home: index.md
   - Features:
-    - Danmaku: features/danmaku.md
-    - Mobs: features/mobs.md
-    - Ritual Crafting: features/ritual_crafting.md
+      - Danmaku: features/danmaku.md
+      - Mobs: features/mobs.md
+      - Ritual Crafting: features/ritual_crafting.md
   - Miscellaneous:
-    - Advancement Triggers: misc/advancement_triggers.md
+      - Advancement Triggers: misc/advancement_triggers.md
 theme:
   name: material
   favicon: images/icon.png
@@ -48,16 +48,18 @@ markdown_extensions:
       auto_append:
         - includes/abbreviations.md
 plugins:
+  - search:
+      lang: en
   - i18n:
-    default_language: en
-    docs_structure: folder
-    material_alternate: false
-    languages:
-      en:
-        name: English
-        link: ./en/
-        build: true
-extra: 
+      default_language: en
+      docs_structure: folder
+      material_alternate: false
+      languages:
+        en:
+          name: English
+          link: ./en/
+          build: true
+extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/Maxmani
