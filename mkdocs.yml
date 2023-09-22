@@ -1,5 +1,5 @@
 site_name: Arcadian Dream Documentation
-site_url: https://arcadian-dream.readthedocs.io
+site_url: https://arcadiandream.reimaden.net
 nav:
   - Home: index.md
   - Features:
@@ -12,6 +12,7 @@ theme:
   name: material
   favicon: images/icon.png
   logo: images/icon.png
+  language: en
   icon:
     repo: fontawesome/brands/github
   palette:
@@ -32,11 +33,6 @@ theme:
   features:
     - navigation.instant
     - navigation.expand
-extra: 
-  social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/Maxmani
-      name: GitHub
 markdown_extensions:
   - pymdownx.caret
   - pymdownx.mark
@@ -51,4 +47,23 @@ markdown_extensions:
   - pymdownx.snippets:
       auto_append:
         - includes/abbreviations.md
+plugins:
+  - i18n:
+    default_language: en
+    docs_structure: folder
+    material_alternate: false
+    languages:
+      en:
+        name: English
+        link: ./en/
+        build: true
+extra: 
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Maxmani
+      name: GitHub
+  alternate:
+    - name: English
+      link: ./en/
+      lang: en
 repo_url: https://github.com/Maxmani/arcadian-dream
