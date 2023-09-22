@@ -10,8 +10,8 @@ nav:
       - Advancement Triggers: misc/advancement_triggers.md
 theme:
   name: material
-  favicon: images/icon.png
-  logo: images/icon.png
+  favicon: assets/icon.png
+  logo: assets/icon.png
   language: en
   icon:
     repo: fontawesome/brands/github
@@ -31,7 +31,6 @@ theme:
         icon: material/toggle-switch
         name: Switch to light mode
   features:
-    - navigation.instant
     - navigation.expand
 markdown_extensions:
   - pymdownx.caret
@@ -51,13 +50,11 @@ plugins:
   - search:
       lang: en
   - i18n:
-      default_language: en
       docs_structure: folder
-      material_alternate: false
       languages:
-        en:
+        - locale: en
+          default: true
           name: English
-          link: ./en/
           build: true
 extra:
   social:
@@ -66,6 +63,6 @@ extra:
       name: GitHub
   alternate:
     - name: English
-      link: ./en/
+      link: /en/
       lang: en
 repo_url: https://github.com/Maxmani/arcadian-dream
