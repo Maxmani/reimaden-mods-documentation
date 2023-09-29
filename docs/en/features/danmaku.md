@@ -24,6 +24,7 @@ Icon | Material | Description
 <img alt="Star Item" width="16" src="https://raw.githubusercontent.com/Maxmani/arcadian-dream/HEAD/src/main/resources/assets/arcadiandream/textures/item/star_item.png"/> | Star Item | Used to increase the duration of bullets. Also used to create Bullet Cores.
 <img alt="Faith Item" width="16" src="https://raw.githubusercontent.com/Maxmani/arcadian-dream/HEAD/src/main/resources/assets/arcadiandream/textures/item/faith_item.png"/> | Faith Item | Used to repair Shot items.
 <img alt="Time Orb" width="16" src="https://raw.githubusercontent.com/Maxmani/arcadian-dream/HEAD/src/main/resources/assets/arcadiandream/textures/item/time_orb.png"/> | Time Orb | Permanently halves the cooldown of a shot.
+<img alt="Enchanted Ice" width="16" src="https://raw.githubusercontent.com/Maxmani/arcadian-dream/HEAD/src/main/resources/assets/arcadiandream/textures/item/enchanted_ice.png"/> | Enchanted Ice | Makes a shot apply freezing on hit.
 
 The first step is to create a Bullet Core. Each bullet type has an equivalent Bullet Core. These can be crafted using Star Items in a regular crafting table.
 
