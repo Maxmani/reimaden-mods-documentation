@@ -34,12 +34,12 @@ The first step is to create a Bullet Core. Each bullet type has an equivalent Bu
 
 Icon | Bullet Type | Notes
 -----|-------------|-----------
-![Circle](../../assets/images/circle_shot.png) | Circle |
-![Bubble](../../assets/images/bubble_shot.png) | Bubble | Has a quite large hitbox.
-![Amulet](../../assets/images/amulet_shot.png) | Amulet | Deals more damage to undead mobs.
-![Star](../../assets/images/star_shot.png) | Star | Ignores armor.
-![Kunai](../../assets/images/kunai_shot.png) | Kunai | Pierces through enemies.
-![Pellet](../../assets/images/pellet_shot.png) | Pellet | Has high max density.
+![Circle](../../../assets/images/circle_shot.png) | Circle |
+![Bubble](../../../assets/images/bubble_shot.png) | Bubble | Has a quite large hitbox.
+![Amulet](../../../assets/images/amulet_shot.png) | Amulet | Deals more damage to undead mobs.
+![Star](../../../assets/images/star_shot.png) | Star | Ignores armor.
+![Kunai](../../../assets/images/kunai_shot.png) | Kunai | Pierces through enemies.
+![Pellet](../../../assets/images/pellet_shot.png) | Pellet | Has high max density.
 
 To turn a core into a usable Shot, you will need a Danmaku Crafting Table.
 
@@ -47,7 +47,7 @@ To turn a core into a usable Shot, you will need a Danmaku Crafting Table.
 
 The Danmaku Crafting Table is a block that allows you to create, repair and modify Shot items.
 
-![Danmaku Crafting Table](../../assets/images/danmaku_crafting_table.png)
+![Danmaku Crafting Table](../../../assets/images/danmaku_crafting_table.png)
 
 1. Core
 2. Shot
@@ -60,12 +60,12 @@ The Danmaku Crafting Table is a block that allows you to create, repair and modi
 Placing a core in the core slot and a Big Power Item in the modifier slot will result in a Shot item. From there you can place it in the shot slot to repair it using Faith Items in a repair slot or modifying it using other materials and slots.
 
 <figure markdown>
-  ![Danmaku Crafting Example](../../assets/images/danmaku_crafting_example1.png){width="326"}
+  ![Danmaku Crafting Example](../../../assets/images/danmaku_crafting_example1.png){width="326"}
   <figcaption>An example of crafting a shot.</figcaption>
 </figure>
 
 <figure markdown>
-  ![Danmaku Crafting Example](../../assets/images/danmaku_crafting_example2.png){width="326"}
+  ![Danmaku Crafting Example](../../../assets/images/danmaku_crafting_example2.png){width="326"}
   <figcaption>An example of modifying and repairing a shot.</figcaption>
 </figure>
 

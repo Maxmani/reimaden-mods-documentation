@@ -1,7 +1,5 @@
 # Bullets Cancelled
 
-[Advancement Trigger](../advancement_triggers.md)
-
 Triggers when a player cancels bullets.
 
 ID: `arcadiandream:bullets_cancelled`

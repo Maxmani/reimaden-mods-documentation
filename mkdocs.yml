@@ -1,17 +1,27 @@
-site_name: Arcadian Dream Documentation
-site_url: https://arcadiandream.reimaden.net
+site_name: Reimaden Mods Documentation
+site_description: Information about Maxmani's mods for Minecraft.
+site_url: https://docs.reimaden.net
+
+repo_url: https://github.com/Maxmani/reimaden-mods-documentation
+repo_name: GitHub Repo
+
 nav:
   - Home: index.md
-  - Features:
-      - Danmaku: features/danmaku.md
-      - Mobs: features/mobs.md
-      - Ritual Crafting: features/ritual_crafting.md
-  - Miscellaneous:
-      - Advancement Triggers: misc/advancement_triggers.md
+  - Arcadian Dream:
+    - Introduction: arcadian-dream/introduction.md
+    - Features:
+      - Danmaku: arcadian-dream/features/danmaku.md
+      - Mobs: arcadian-dream/features/mobs.md
+      - Ritual Crafting: arcadian-dream/features/ritual-crafting.md
+    - Miscellaneous:
+        - Advancement Triggers:
+          - Ritual Crafting: arcadian-dream/misc/advancement-triggers/ritual-crafting.md
+          - Danmaku Modified: arcadian-dream/misc/advancement-triggers/danmaku-modified.md
+          - Bullets Cancelled: arcadian-dream/misc/advancement-triggers/bullets-cancelled.md
 theme:
   name: material
-  favicon: assets/icon.png
-  logo: assets/icon.png
+  favicon: assets/icon.gif
+  logo: assets/icon.gif
   language: en
   icon:
     repo: fontawesome/brands/github
@@ -32,6 +42,11 @@ theme:
         name: Switch to light mode
   features:
     - navigation.expand
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.tracking
+    - toc.follow
+    - navigation.top
 markdown_extensions:
   - pymdownx.caret
   - pymdownx.mark
@@ -63,5 +78,6 @@ extra:
       name: GitHub
   alternate:
     - name: English
+    # link: /en/
+    # Uncomment once there's some language options
       lang: en
-repo_url: https://github.com/Maxmani/arcadian-dream

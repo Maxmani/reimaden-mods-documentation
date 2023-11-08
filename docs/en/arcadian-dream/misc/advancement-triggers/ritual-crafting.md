@@ -1,7 +1,5 @@
 # Ritual Crafting
 
-[Advancement Trigger](../advancement_triggers.md)
-
 Triggers when a player successfully crafts an item using a Ritual Shrine. Does not support conditions.
 
 ID: `arcadiandream:ritual_crafting`
