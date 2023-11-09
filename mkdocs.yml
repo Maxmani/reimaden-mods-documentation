@@ -3,7 +3,6 @@ site_description: Information about Maxmani's mods for Minecraft.
 site_url: https://docs.reimaden.net
 
 repo_url: https://github.com/Maxmani/reimaden-mods-documentation
-repo_name: GitHub Repo
 
 nav:
   - Home: index.md
@@ -23,6 +22,7 @@ nav:
     - General Types:
       - Power Types:
         - Modify Behavior: voile/types/power-types/modify-behavior.md
+        - Zombie Arms: voile/types/power-types/zombie-arms.md
     - Condition Types:
       - Entity Condition Types:
         - Moon Phase: voile/types/entity-condition-types/moon-phase.md
