@@ -14,10 +14,20 @@ nav:
       - Mobs: arcadian-dream/features/mobs.md
       - Ritual Crafting: arcadian-dream/features/ritual-crafting.md
     - Miscellaneous:
-        - Advancement Triggers:
-          - Ritual Crafting: arcadian-dream/misc/advancement-triggers/ritual-crafting.md
-          - Danmaku Modified: arcadian-dream/misc/advancement-triggers/danmaku-modified.md
-          - Bullets Cancelled: arcadian-dream/misc/advancement-triggers/bullets-cancelled.md
+      - Advancement Triggers:
+        - Ritual Crafting: arcadian-dream/misc/advancement-triggers/ritual-crafting.md
+        - Danmaku Modified: arcadian-dream/misc/advancement-triggers/danmaku-modified.md
+        - Bullets Cancelled: arcadian-dream/misc/advancement-triggers/bullets-cancelled.md
+  - Voile:
+    - Introduction: voile/introduction.md
+    - General Types:
+      - Power Types:
+        - Modify Behavior: voile/types/power-types/modify-behavior.md
+    - Condition Types:
+      - Entity Condition Types:
+        - Moon Phase: voile/types/entity-condition-types/moon-phase.md
+      - Item Condition Types:
+        - Enchantability: voile/types/item-condition-types/enchantability.md
 theme:
   name: material
   favicon: assets/icon.gif
@@ -43,8 +53,6 @@ theme:
   features:
     - navigation.expand
     - navigation.tabs
-    - navigation.tabs.sticky
-    - navigation.tracking
     - toc.follow
     - navigation.top
 markdown_extensions:
@@ -61,6 +69,8 @@ markdown_extensions:
   - pymdownx.snippets:
       auto_append:
         - includes/abbreviations.md
+  - toc:
+      permalink: "#"
 plugins:
   - search:
       lang: en
@@ -71,6 +81,8 @@ plugins:
           default: true
           name: English
           build: true
+  - git-revision-date-localized:
+      type: timeago
 extra:
   social:
     - icon: fontawesome/brands/github
