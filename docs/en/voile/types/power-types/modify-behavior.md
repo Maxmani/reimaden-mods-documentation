@@ -5,10 +5,13 @@ description: Voile Documentation
 
 # Modify Behavior
 
-Allows changing the behavior (passive, neutral, hostile) of mobs towards the power holder.  
-Note that most passive mobs cannot be made hostile, as they lack the ability to attack.
+Allows changing the behavior (passive, neutral, hostile) of mobs towards the power holder.
 
 Type ID: `voile:modify_behavior`
+
+!!! note
+
+    Most passive mobs cannot be made hostile, as they lack the ability to attack.
 
 ### Fields
 

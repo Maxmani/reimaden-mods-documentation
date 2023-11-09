@@ -6,9 +6,12 @@ description: Voile Documentation
 # Moon Phase
 
 Check the moon phase of the entity's current dimension. Will always be false if the player is in a dimension without a moon.  
-Note that moon phases are still able to return true during day time.
 
 Type ID: `voile:moon_phase`
+
+!!! note
+
+    This entity condition type can still return true during day time.
 
 ### Fields
 
