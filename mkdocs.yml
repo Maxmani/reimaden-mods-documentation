@@ -21,6 +21,7 @@ nav:
     - Introduction: voile/introduction.md
     - General Types:
       - Power Types:
+        - Flip Model: voile/types/power-types/flip-model.md
         - Modify Behavior: voile/types/power-types/modify-behavior.md
         - Zombie Arms: voile/types/power-types/zombie-arms.md
     - Condition Types:
