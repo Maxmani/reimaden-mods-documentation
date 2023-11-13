@@ -1,6 +1,6 @@
 # Welcome
 
-This is the documentation for all of the *Reimaden* Minecraft mods, or simply put, anything made by me, [Maxmani](https://github.com/Maxmani).
+This is the documentation for all of the *Reimaden* Minecraft mods, or simply put, anything made by [me](https://github.com/Maxmani).
 
 Here be dragons and stuff.
 

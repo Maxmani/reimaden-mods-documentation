@@ -21,9 +21,19 @@ nav:
     - Introduction: voile/introduction.md
     - General Types:
       - Power Types:
+        - Enchantment Vulnerability: voile/types/power-types/enchantment-vulnerability.md
         - Flip Model: voile/types/power-types/flip-model.md
+        - Instant Effect Immunity: voile/types/power-types/instant-effect-immunity.md
         - Modify Behavior: voile/types/power-types/modify-behavior.md
+        - Modify Death Sound: voile/types/power-types/modify-death-sound.md
+        - Modify Footstep Sound: voile/types/power-types/modify-footstep-sound.md
+        - Modify Hurt Sound: voile/types/power-types/modify-hurt-sound.md
+        - Modify Scale: voile/types/power-types/modify-scale.md
+        - Reverse Instant Effects: voile/types/power-types/reverse-instant-effects.md
         - Zombie Arms: voile/types/power-types/zombie-arms.md
+    - Action Types:
+      - Entity Action Types:
+        - Change Resource With Status Effects: voile/types/entity-action-types/change-resource-with-status-effects.md
     - Condition Types:
       - Entity Condition Types:
         - Moon Phase: voile/types/entity-condition-types/moon-phase.md
