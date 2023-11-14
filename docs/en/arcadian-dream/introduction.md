@@ -1,10 +1,9 @@
-<p align="center">
+<center>
 <img src="https://raw.githubusercontent.com/Maxmani/arcadian-dream/HEAD/src/main/resources/assets/arcadiandream/icon.png" width="64"/>
-</p>
+<h1>Arcadian Dream</h1>
+</center>
 
 ---
-
-<center> <h1>Arcadian Dream</h1> </center>
 
 This is the documentation for the Arcadian Dream mod for Minecraft. It is a work in progress, and will be updated as the project progresses.
 

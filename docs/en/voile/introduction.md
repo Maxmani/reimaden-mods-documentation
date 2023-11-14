@@ -5,11 +5,10 @@ description: Voile Documentation
 
 <center>
 <img src="https://raw.githubusercontent.com/Maxmani/voile/HEAD/src/main/resources/assets/voile/icon.png" width="64"/>
+<h1>Voile</h1>
 </center>
 
 ---
-
-<center> <h1>Voile</h1> </center>
 
 Voile is an addon for [Apoli](https://github.com/apace100/apoli), adding new [power](https://origins.readthedocs.io/en/latest/types/power_types/), [action](https://origins.readthedocs.io/en/latest/types/entity_action_types/) and [condition](https://origins.readthedocs.io/en/latest/types/entity_condition_types/) types to further enhance your data-driven power needs.
 
