@@ -4,7 +4,7 @@
 
 ---
 
-# Welcome to the Arcadian Dream Documentation
+<center> <h1>Arcadian Dream</h1> </center>
 
 This is the documentation for the Arcadian Dream mod for Minecraft. It is a work in progress, and will be updated as the project progresses.
 
