@@ -38,6 +38,7 @@ nav:
     - Condition Types:
       - Entity Condition Types:
         - Moon Phase: voile/types/entity-condition-types/moon-phase.md
+        - Precise On Block: voile/types/entity-condition-types/precise-on-block.md
       - Item Condition Types:
         - Enchantability: voile/types/item-condition-types/enchantability.md
 theme:
