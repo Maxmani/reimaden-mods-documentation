@@ -27,6 +27,7 @@ nav:
         - Instant Effect Immunity: voile/types/power-types/instant-effect-immunity.md
         - Modify Behavior: voile/types/power-types/modify-behavior.md
         - Modify Death Sound: voile/types/power-types/modify-death-sound.md
+        - Modify Divergence: voile/types/power-types/modify-divergence.md
         - Modify Footstep Sound: voile/types/power-types/modify-footstep-sound.md
         - Modify Hurt Sound: voile/types/power-types/modify-hurt-sound.md
         - Modify Scale: voile/types/power-types/modify-scale.md
