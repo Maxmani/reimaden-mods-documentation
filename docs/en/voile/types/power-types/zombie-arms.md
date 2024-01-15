@@ -22,7 +22,7 @@ Type ID: `voile:zombie_arms`
 
 ```json
 {
-    "type": "voile:zombie_arms"
+    "type": "voile:zombie_arms",
     "condition": {
         "type": "apoli:sneaking",
         "inverted": true
