@@ -22,6 +22,7 @@ nav:
     - General Types:
       - Power Types:
         - Convert Entity: voile/types/power-types/convert-entity.md
+        - Disable Shields: voile/types/power-types/disable-shields.md
         - Enchantment Vulnerability: voile/types/power-types/enchantment-vulnerability.md
         - Flip Model: voile/types/power-types/flip-model.md
         - Instant Effect Immunity: voile/types/power-types/instant-effect-immunity.md
@@ -43,6 +44,7 @@ nav:
         - Moon Phase: voile/types/entity-condition-types/moon-phase.md
         - Precise On Block: voile/types/entity-condition-types/precise-on-block.md
       - Item Condition Types:
+        - Craftable: voile/types/item-condition-types/craftable.md
         - Enchantability: voile/types/item-condition-types/enchantability.md
 theme:
   name: material
