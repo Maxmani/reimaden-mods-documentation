@@ -21,6 +21,7 @@ nav:
     - Introduction: voile/introduction.md
     - General Types:
       - Power Types:
+        - Action On Block: voile/types/power-types/action-on-block.md      
         - Convert Entity: voile/types/power-types/convert-entity.md
         - Disable Shields: voile/types/power-types/disable-shields.md
         - Enchantment Vulnerability: voile/types/power-types/enchantment-vulnerability.md
@@ -32,6 +33,7 @@ nav:
         - Modify Footstep Sound: voile/types/power-types/modify-footstep-sound.md
         - Modify Hurt Sound: voile/types/power-types/modify-hurt-sound.md
         - Modify Scale: voile/types/power-types/modify-scale.md
+        - Prevent Item Slowdown: voile/types/power-types/prevent-item-slowdown.md
         - Prevent Sprinting Particles: voile/types/power-types/prevent-sprinting-particles.md
         - Reverse Instant Effects: voile/types/power-types/reverse-instant-effects.md
         - Zombie Arms: voile/types/power-types/zombie-arms.md
