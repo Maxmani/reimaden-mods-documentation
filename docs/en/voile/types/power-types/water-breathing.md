@@ -5,7 +5,7 @@ description: Voile Documentation
 
 # Water Breathing
 
-Allows the entity that has this power to breathe underwater.
+Allows the entity that has the power to breathe underwater.
 
 Type ID: `voile:water_breathing`
 
@@ -25,4 +25,4 @@ Type ID: `voile:water_breathing`
 }
 ```
 
-This example allows the entity that has this power to breathe underwater, but only at night.
+This example allows the entity that has the power to breathe underwater, but only at night.
