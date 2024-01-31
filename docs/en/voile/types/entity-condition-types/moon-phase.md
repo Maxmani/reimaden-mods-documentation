@@ -30,4 +30,4 @@ Field | Type | Default | Description
 }
 ```
 
-This example checks if the entity's current dimension has a moon and it is not a full moon.
+This example will check if the entity's current dimension has a moon and it is not a full moon.
