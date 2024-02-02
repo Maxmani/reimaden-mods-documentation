@@ -13,7 +13,7 @@ Type ID: `voile:flip_model`
 
 Field | Type | Default | Description
 ------|------|---------|------------
-`flip_view` | [Boolean](https://origins.readthedocs.io/en/latest/types/data_types/boolean/) | `false` | Whether to flip the entity's view as well (only works on players).
+`flip_view` | [Boolean](https://origins.readthedocs.io/en/latest/types/data_types/boolean/) | `false` | Whether to flip the entity's view as well.
 
 ### Examples
 
