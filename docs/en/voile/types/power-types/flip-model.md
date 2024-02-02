@@ -11,7 +11,9 @@ Type ID: `voile:flip_model`
 
 ### Fields
 
-*None.*
+Field | Type | Default | Description
+------|------|---------|------------
+`flip_view` | [Boolean](https://origins.readthedocs.io/en/latest/types/data_types/boolean/) | `false` | Whether to flip the entity's view as well (only works on players).
 
 ### Examples
 
@@ -34,3 +36,12 @@ This example flips the entity's model upside down.
 ```
 
 This example flips the entity's model upside down when not standing on a block.
+
+```json
+{
+    "type": "voile:flip_model",
+    "flip_view": true
+}
+```
+
+This example flips the entity's model and view upside down.
