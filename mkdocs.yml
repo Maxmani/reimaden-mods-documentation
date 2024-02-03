@@ -35,6 +35,7 @@ nav:
         - Modify Scale: voile/types/power-types/modify-scale.md
         - Prevent Item Slowdown: voile/types/power-types/prevent-item-slowdown.md
         - Prevent Sprinting Particles: voile/types/power-types/prevent-sprinting-particles.md
+        - Prevent Taming: voile/types/power-types/prevent-taming.md
         - Reverse Instant Effects: voile/types/power-types/reverse-instant-effects.md
         - Water Breathing: voile/types/power-types/water-breathing.md
         - Zombie Arms: voile/types/power-types/zombie-arms.md
