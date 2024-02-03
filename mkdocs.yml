@@ -33,6 +33,7 @@ nav:
         - Modify Footstep Sound: voile/types/power-types/modify-footstep-sound.md
         - Modify Hurt Sound: voile/types/power-types/modify-hurt-sound.md
         - Modify Scale: voile/types/power-types/modify-scale.md
+        - Prevent Flying Kick: voile/types/power-types/prevent-flying-kick.md
         - Prevent Item Slowdown: voile/types/power-types/prevent-item-slowdown.md
         - Prevent Sprinting Particles: voile/types/power-types/prevent-sprinting-particles.md
         - Prevent Taming: voile/types/power-types/prevent-taming.md
