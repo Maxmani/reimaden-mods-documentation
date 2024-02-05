@@ -45,11 +45,15 @@ nav:
         - Apply Random Effect: voile/types/entity-action-types/apply-random-effect.md
         - Change Resource With Status Effects: voile/types/entity-action-types/change-resource-with-status-effects.md
         - Disable Shield: voile/types/entity-action-types/disable-shield.md
+      - Bi-entity Action Types:
+        - Store Data: voile/types/bientity-action-types/store-data.md
     - Condition Types:
       - Entity Condition Types:
         - Moon Phase: voile/types/entity-condition-types/moon-phase.md
         - Nearby Entities: voile/types/entity-condition-types/nearby-entities.md
         - Precise On Block: voile/types/entity-condition-types/precise-on-block.md
+      - Bi-entity Condition Types:
+        - Scoreboard: voile/types/bientity-condition-types/scoreboard.md
       - Item Condition Types:
         - Craftable: voile/types/item-condition-types/craftable.md
         - Enchantability: voile/types/item-condition-types/enchantability.md
