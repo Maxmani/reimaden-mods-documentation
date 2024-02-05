@@ -11,7 +11,7 @@ Type ID: `voile:change_resource_with_status_effects`
 
 !!! warning
     
-    This power is very niche and may be changed in the future.
+    This action type is very niche and may be changed in the future.
 
 ### Fields
 
