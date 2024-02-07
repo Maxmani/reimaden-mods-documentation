@@ -21,7 +21,8 @@ nav:
     - Introduction: voile/introduction.md
     - General Types:
       - Power Types:
-        - Action On Block: voile/types/power-types/action-on-block.md      
+        - Action On Block: voile/types/power-types/action-on-block.md
+        - Action On Entity Death: voile/types/power-types/action-on-entity-death.md
         - Convert Entity: voile/types/power-types/convert-entity.md
         - Disable Shields: voile/types/power-types/disable-shields.md
         - Enchantment Vulnerability: voile/types/power-types/enchantment-vulnerability.md
@@ -45,6 +46,7 @@ nav:
         - Apply Random Effect: voile/types/entity-action-types/apply-random-effect.md
         - Change Resource With Status Effects: voile/types/entity-action-types/change-resource-with-status-effects.md
         - Disable Shield: voile/types/entity-action-types/disable-shield.md
+        - Kill: voile/types/entity-action-types/kill.md
       - Bi-entity Action Types:
         - Store Data: voile/types/bientity-action-types/store-data.md
     - Condition Types:
