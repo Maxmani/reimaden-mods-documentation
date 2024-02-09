@@ -42,20 +42,21 @@ nav:
         - Water Breathing: voile/types/power-types/water-breathing.md
         - Zombie Arms: voile/types/power-types/zombie-arms.md
     - Action Types:
+      - Bi-entity Action Types:
+        - Store Data: voile/types/bientity-action-types/store-data.md
       - Entity Action Types:
         - Apply Random Effect: voile/types/entity-action-types/apply-random-effect.md
         - Change Resource With Status Effects: voile/types/entity-action-types/change-resource-with-status-effects.md
         - Disable Shield: voile/types/entity-action-types/disable-shield.md
         - Kill: voile/types/entity-action-types/kill.md
-      - Bi-entity Action Types:
-        - Store Data: voile/types/bientity-action-types/store-data.md
+        - Teleport To Entity: voile/types/entity-action-types/teleport-to-entity.md
     - Condition Types:
+      - Bi-entity Condition Types:
+        - Scoreboard: voile/types/bientity-condition-types/scoreboard.md
       - Entity Condition Types:
         - Moon Phase: voile/types/entity-condition-types/moon-phase.md
         - Nearby Entities: voile/types/entity-condition-types/nearby-entities.md
         - Precise On Block: voile/types/entity-condition-types/precise-on-block.md
-      - Bi-entity Condition Types:
-        - Scoreboard: voile/types/bientity-condition-types/scoreboard.md
       - Item Condition Types:
         - Craftable: voile/types/item-condition-types/craftable.md
         - Enchantability: voile/types/item-condition-types/enchantability.md

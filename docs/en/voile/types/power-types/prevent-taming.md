@@ -5,7 +5,7 @@ description: Voile Documentation
 
 # Prevent Taming
 
-Prevents the player that has the power from taming animals and executes a bi-entity action upon being prevented.
+Prevents the player that has the power from taming animals and executes a [Bi-entity Action Type](https://origins.readthedocs.io/en/latest/types/bientity_action_types/) upon being prevented.
 
 Type ID: `voile:prevent_taming`
 
