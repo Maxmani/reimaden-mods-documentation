@@ -23,6 +23,7 @@ nav:
       - Power Types:
         - Action On Block: voile/types/power-types/action-on-block.md
         - Action On Entity Death: voile/types/power-types/action-on-entity-death.md
+        - Action On Origin GUI: voile/types/power-types/action-on-origin-gui.md
         - Convert Entity: voile/types/power-types/convert-entity.md
         - Disable Shields: voile/types/power-types/disable-shields.md
         - Enchantment Vulnerability: voile/types/power-types/enchantment-vulnerability.md
