@@ -62,6 +62,8 @@ nav:
       - Item Condition Types:
         - Craftable: voile/types/item-condition-types/craftable.md
         - Enchantability: voile/types/item-condition-types/enchantability.md
+    - Miscellaneous:
+      - Sprites: voile/misc/sprites.md
 theme:
   name: material
   favicon: assets/icon.gif
