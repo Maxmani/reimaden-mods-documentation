@@ -44,12 +44,14 @@ nav:
         - Zombie Arms: voile/types/power-types/zombie-arms.md
     - Action Types:
       - Bi-entity Action Types:
+        - Disguise: voile/types/bientity-action-types/disguise.md
         - Store Data: voile/types/bientity-action-types/store-data.md
       - Entity Action Types:
         - Apply Random Effect: voile/types/entity-action-types/apply-random-effect.md
         - Change Resource With Status Effects: voile/types/entity-action-types/change-resource-with-status-effects.md
         - Disable Shield: voile/types/entity-action-types/disable-shield.md
         - Kill: voile/types/entity-action-types/kill.md
+        - Remove Disguise: voile/types/entity-action-types/remove-disguise.md
         - Teleport To Entity: voile/types/entity-action-types/teleport-to-entity.md
     - Condition Types:
       - Bi-entity Condition Types:
