@@ -55,9 +55,11 @@ nav:
         - Teleport To Entity: voile/types/entity-action-types/teleport-to-entity.md
     - Condition Types:
       - Bi-entity Condition Types:
+        - Disguised: voile/types/bientity-condition-types/disguised.md
         - Scoreboard: voile/types/bientity-condition-types/scoreboard.md
       - Entity Condition Types:
         - Check Set: voile/types/entity-condition-types/check-set.md
+        - Disguised: voile/types/entity-condition-types/disguised.md
         - Moon Phase: voile/types/entity-condition-types/moon-phase.md
         - Nearby Entities: voile/types/entity-condition-types/nearby-entities.md
         - Precise On Block: voile/types/entity-condition-types/precise-on-block.md
