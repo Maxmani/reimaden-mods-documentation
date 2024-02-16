@@ -5,6 +5,8 @@ description: Voile Documentation
 
 # Apply Random Effect
 
+`Since v1.0.0`
+
 Adds a random status effect to the living entity. Does not have an effect on non-living entities.
 
 Type ID: `voile:apply_random_effect`

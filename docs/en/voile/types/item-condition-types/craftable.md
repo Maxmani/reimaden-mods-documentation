@@ -5,6 +5,8 @@ description: Voile Documentation
 
 # Craftable
 
+`Since v1.0.0`
+
 Checks if the item stack has a regular crafting recipe.
 
 Type ID: `voile:craftable`

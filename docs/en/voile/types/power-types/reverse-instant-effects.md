@@ -5,6 +5,8 @@ description: Voile Documentation
 
 # Reverse Instant Effects
 
+`Since v1.0.0`
+
 Reverses the effects of the [Instant Health](https://minecraft.wiki/w/Instant_Health) and [Instant Damage](https://minecraft.wiki/w/Instant_Damage) status effects.
 
 Type ID: `voile:reverse_instant_effects`

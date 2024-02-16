@@ -5,6 +5,8 @@ description: Voile Documentation
 
 # Store Data
 
+`Since v1.0.0`
+
 Stores entity data from the target entity in the actor entity's scoreboard.
 
 Type ID: `voile:store_data`

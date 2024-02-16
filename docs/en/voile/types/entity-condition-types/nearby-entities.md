@@ -5,6 +5,8 @@ description: Voile Documentation
 
 # Nearby Entities
 
+`Since v1.0.0`
+
 Checks if there are any entities nearby.
 
 Type ID: `voile:nearby_entities`

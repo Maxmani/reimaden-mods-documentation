@@ -5,6 +5,8 @@ description: Voile Documentation
 
 # Disable Shields
 
+`Since v1.0.0`
+
 Allows the entity that has the power to disable shields as if they were using an axe.
 
 Type ID: `voile:disable_shields`

@@ -5,6 +5,8 @@ description: Voile Documentation
 
 # Convert Entity
 
+`Since v1.0.0`
+
 Allows the power holder to convert entities into other entities, similarly to how zombies can convert villagers into zombie villagers.
 
 Type ID: `voile:convert_entity`

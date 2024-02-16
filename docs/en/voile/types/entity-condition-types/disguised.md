@@ -5,6 +5,8 @@ description: Voile Documentation
 
 # Disguised
 
+`Since v1.0.0`
+
 Checks if the entity is currently [disguised](../bientity-action-types/disguise.md).
 
 Type ID: `voile:disguised`

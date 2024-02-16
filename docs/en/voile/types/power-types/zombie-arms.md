@@ -5,6 +5,8 @@ description: Voile Documentation
 
 # Zombie Arms
 
+`Since v1.0.0`
+
 Makes the entity's arms point forward like a zombie.
 
 Type ID: `voile:zombie_arms`

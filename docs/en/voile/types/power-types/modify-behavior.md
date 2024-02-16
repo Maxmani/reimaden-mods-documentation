@@ -5,6 +5,8 @@ description: Voile Documentation
 
 # Modify Behavior
 
+`Since v1.0.0`
+
 Allows changing the behavior (passive, neutral, hostile) of mobs towards the power holder.
 
 Type ID: `voile:modify_behavior`

@@ -5,6 +5,8 @@ description: Voile Documentation
 
 # Precise On Block
 
+`Since v1.0.0`
+
 Checks if a block underneath the entity's feet fulfills the specified [Block Condition Type](https://origins.readthedocs.io/en/latest/types/block_condition_types/).  
 Unlike [On Block](https://origins.readthedocs.io/en/latest/types/entity_condition_types/on_block/), this only checks what's immediately under the entity, meaning you can, for example, still stand on a slab above the block you're checking for.
 

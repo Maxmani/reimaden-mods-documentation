@@ -5,6 +5,8 @@ description: Voile Documentation
 
 # Teleport To Entity
 
+`Since v1.0.0`
+
 Teleports the entity to a random entity on the server and executes a [Bi-entity Action Type](https://origins.readthedocs.io/en/latest/types/bientity_action_types/) upon teleporting.
 
 Type ID: `voile:teleport_to_entity`

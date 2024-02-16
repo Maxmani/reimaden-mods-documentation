@@ -5,6 +5,8 @@ description: Voile Documentation
 
 # Kill
 
+`Since v1.0.0`
+
 Kills the entity, similarly to the `/kill` command.
 
 Type ID: `voile:kill`

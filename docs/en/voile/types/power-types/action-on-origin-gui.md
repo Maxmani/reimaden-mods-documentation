@@ -5,6 +5,8 @@ description: Voile Documentation
 
 # Action On Origin GUI
 
+`Since v2.0.0 of Touhou Origins`
+
 Executes an [Entity Action Type](https://origins.readthedocs.io/en/latest/types/entity_action_types/) when the player opens the origin selection screen (either by using an `Orb of Origin` or the `/origin gui` command).
 
 Type ID: `touhouorigins:action_on_origin_gui`

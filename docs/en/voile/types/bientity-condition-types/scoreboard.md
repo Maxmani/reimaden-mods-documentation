@@ -5,6 +5,8 @@ description: Voile Documentation
 
 # Scoreboard
 
+`Since v1.0.0`
+
 Compares the score of the actor entity from a specified scoreboard objective to the score of the target entity from another specified scoreboard objective.
 
 Type ID: `voile:scoreboard`

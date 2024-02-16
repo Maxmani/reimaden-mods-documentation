@@ -5,6 +5,8 @@ description: Voile Documentation
 
 # Flip Model
 
+`Since v1.0.0`
+
 Flips the entity's model upside down as if it had the name `Dinnerbone` or `Grumm`. Entities that have already been named this way are flipped back instead.
 
 Type ID: `voile:flip_model`

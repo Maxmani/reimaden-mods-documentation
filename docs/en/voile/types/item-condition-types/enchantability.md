@@ -5,6 +5,8 @@ description: Voile Documentation
 
 # Enchantability
 
+`Since v1.0.0`
+
 Checks an item's enchantability. Vanilla enchantability values can be found [here](https://minecraft.wiki/w/Enchanting_mechanics#Enchantability).  
 Items without an enchantability value are considered to have 0 enchantability.
 

@@ -5,6 +5,8 @@ description: Voile Documentation
 
 # Moon Phase
 
+`Since v1.0.0`
+
 Check the moon phase of the entity's current dimension. Will always be false if the player is in a dimension without a moon.  
 
 Type ID: `voile:moon_phase`

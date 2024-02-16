@@ -5,6 +5,8 @@ description: Voile Documentation
 
 # Disguise
 
+`Since v1.0.0`
+
 Disguises the actor entity as the target entity (including in chat messages and the player list).
 
 Type ID: `voile:disguise`

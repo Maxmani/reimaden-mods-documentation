@@ -5,6 +5,8 @@ description: Voile Documentation
 
 # Prevent Sprinting Particles
 
+`Since v1.0.0`
+
 Prevents the entity that has the power from creating sprinting particles (the block particles spawned at the entity's feet when sprinting).
 
 Type ID: `voile:prevent_sprinting_particles`

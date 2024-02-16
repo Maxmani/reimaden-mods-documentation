@@ -5,6 +5,8 @@ description: Voile Documentation
 
 # Prevent Item Slowdown
 
+`Since v1.0.0`
+
 Prevents the player from being slowed down when using items.
 
 Type ID: `voile:prevent_item_slowdown`

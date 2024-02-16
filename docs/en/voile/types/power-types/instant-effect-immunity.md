@@ -5,6 +5,8 @@ description: Voile Documentation
 
 # Instant Effect Immunity
 
+`Since v1.0.0`
+
 Prevents instant status effects from being applied to the entity with this power.
 
 Type ID: `voile:instant_effect_immunity`

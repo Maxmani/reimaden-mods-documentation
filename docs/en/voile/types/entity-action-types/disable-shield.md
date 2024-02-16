@@ -5,6 +5,8 @@ description: Voile Documentation
 
 # Disable Shield
 
+`Since v1.0.0`
+
 Disables the entity's shield as if it had been hit by an axe.
 
 Type ID: `voile:disable_shield`

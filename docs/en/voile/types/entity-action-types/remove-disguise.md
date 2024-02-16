@@ -5,6 +5,8 @@ description: Voile Documentation
 
 # Remove Disguise
 
+`Since v1.0.0`
+
 Removes the player's current [disguise](../bientity-action-types/disguise.md).
 
 Type ID: `voile:remove_disguise`

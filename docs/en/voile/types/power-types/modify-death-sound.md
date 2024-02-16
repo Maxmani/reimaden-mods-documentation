@@ -5,6 +5,8 @@ description: Voile Documentation
 
 # Modify Death Sound
 
+`Since v1.0.0`
+
 Modifies the sound played when the entity that has the power dies.
 
 Type ID: `voile:modify_death_sound`

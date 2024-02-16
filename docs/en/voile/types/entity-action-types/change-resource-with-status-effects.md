@@ -5,6 +5,8 @@ description: Voile Documentation
 
 # Change Resource With Status Effects
 
+`Since v1.0.0`
+
 Changes the value of a power that either uses the [Resource](https://origins.readthedocs.io/en/latest/types/power_types/resource/) power type, or has a built-in cooldown, based on the status effects applied on the entity.
 
 Type ID: `voile:change_resource_with_status_effects`

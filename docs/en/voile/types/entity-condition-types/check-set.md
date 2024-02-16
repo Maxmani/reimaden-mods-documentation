@@ -5,6 +5,8 @@ description: Voile Documentation
 
 # Check Set
 
+`Since v1.0.0`
+
 Checks if the entities stored in a power that uses the [Entity Set (Power Type)](https://origins.readthedocs.io/en/latest/types/power_types/entity_set/) fulfill the specified [Bi-entity Condition Type](https://origins.readthedocs.io/en/latest/types/bientity_condition_types/).
 
 Type ID: `voile:check_set`

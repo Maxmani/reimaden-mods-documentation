@@ -5,6 +5,8 @@ description: Voile Documentation
 
 # Action On Block
 
+`Since v1.0.0`
+
 Executes an action when the entity that has the power blocks an attack with a shield.
 
 Type ID: `voile:action_on_block`

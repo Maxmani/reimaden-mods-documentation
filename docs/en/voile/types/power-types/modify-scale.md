@@ -5,6 +5,8 @@ description: Voile Documentation
 
 # Modify Scale
 
+`Since v1.0.0`
+
 Allows changing the size and scale of an entity.
 
 Type ID: `voile:modify_scale`

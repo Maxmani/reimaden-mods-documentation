@@ -5,6 +5,8 @@ description: Voile Documentation
 
 # Modify Hurt Sound
 
+`Since v1.0.0`
+
 Modifies the sound played when the entity that has the power takes damage.
 
 Type ID: `voile:modify_hurt_sound`

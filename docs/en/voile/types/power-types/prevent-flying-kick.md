@@ -5,6 +5,8 @@ description: Voile Documentation
 
 # Prevent Flying Kick
 
+`Since v1.0.0`
+
 Prevents the player that has the power from getting kicked by the server for floating too long.
 
 Type ID: `voile:prevent_flying_kick`

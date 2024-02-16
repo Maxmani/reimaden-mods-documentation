@@ -5,6 +5,8 @@ description: Voile Documentation
 
 # Modify Divergence
 
+`Since v1.0.0`
+
 Modifies the divergence (accuracy) of the entity's projectiles.
 
 Type ID: `voile:modify_divergence`

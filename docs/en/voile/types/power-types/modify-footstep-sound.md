@@ -5,6 +5,8 @@ description: Voile Documentation
 
 # Modify Footstep Sound
 
+`Since v1.0.0`
+
 Modifies the sound played when the entity that has the power walks on a block.
 
 Type ID: `voile:modify_footstep_sound`

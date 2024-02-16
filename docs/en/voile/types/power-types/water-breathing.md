@@ -5,6 +5,8 @@ description: Voile Documentation
 
 # Water Breathing
 
+`Since v1.0.0`
+
 Allows the entity that has the power to breathe underwater.
 
 Type ID: `voile:water_breathing`

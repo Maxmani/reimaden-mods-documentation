@@ -5,6 +5,8 @@ description: Voile Documentation
 
 # Action On Entity Death
 
+`Since v1.0.0`
+
 Executes an action when an entity on the server dies.
 
 Type ID: `voile:action_on_entity_death`
