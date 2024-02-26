@@ -16,6 +16,7 @@ Type ID: `voile:modify_divergence`
 Field | Type | Default | Description
 ------|------|---------|------------
 `divergence` | [Float](https://origins.readthedocs.io/en/latest/types/data_types/float/) | | The divergence to set. Most projectiles have a default divergence of 1.
+`operation` | [String](https://origins.readthedocs.io/en/latest/types/data_types/string/) | `set` | Determines if the power should add or set the value of the divergence. Accepts `"add"` or `"set"`.
 
 ### Examples
 

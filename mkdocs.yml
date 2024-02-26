@@ -34,11 +34,14 @@ nav:
         - Modify Divergence: voile/types/power-types/modify-divergence.md
         - Modify Footstep Sound: voile/types/power-types/modify-footstep-sound.md
         - Modify Hurt Sound: voile/types/power-types/modify-hurt-sound.md
+        - Modify Pickup Range: voile/types/power-types/modify-pickup-range.md
+        - Modify Projectile Speed: voile/types/power-types/modify-projectile-speed.md
         - Modify Scale: voile/types/power-types/modify-scale.md
         - Prevent Flying Kick: voile/types/power-types/prevent-flying-kick.md
         - Prevent Item Slowdown: voile/types/power-types/prevent-item-slowdown.md
         - Prevent Sprinting Particles: voile/types/power-types/prevent-sprinting-particles.md
         - Prevent Taming: voile/types/power-types/prevent-taming.md
+        - Prevent Totem: voile/types/power-types/prevent-totem.md
         - Reverse Instant Effects: voile/types/power-types/reverse-instant-effects.md
         - Water Breathing: voile/types/power-types/water-breathing.md
         - Zombie Arms: voile/types/power-types/zombie-arms.md
